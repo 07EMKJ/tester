@@ -1,4 +1,3 @@
 while true do
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XziuhxPlay/ROBLOX-SCRIPTS/main/lol.lua",true))() ----------- Intro GUI
 loadstring(game:HttpGet("UrlHere",true))();
-
